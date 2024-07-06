@@ -1,7 +1,7 @@
 # SURGE-2024
 Anti-Spoof Fingerprint 
 
-# Raspberry Pi Fingerprint Sensor and Anti spoof Detection using ML techniques
+# Raspberry Pi Fingerprint Sensor and Anti spoof Detection 
 
 This Python script is part of a research project conducted by Team X under the supervision of Professor Tushar Sandhan during the summer internship. The project focuses on integrating a fingerprint sensor with an RGB display using a Raspberry Pi, combining hardware interfacing, fingerprint operations, and machine learning for enhanced security.
 
